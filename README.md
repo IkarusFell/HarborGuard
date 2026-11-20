@@ -31,7 +31,7 @@ Run it
 
 Open index.html in a browser, or use VS Code with the Live Server extension. An internet connection is needed for the React, Tailwind and font libraries.
 
-Live demo: https://YOUR-USERNAME.github.io/harbor-guard/
+Live demo: https://IkarusFell.github.io/harbor-guard/
 
 Notes
 All data is simulated and nothing connects to real systems.

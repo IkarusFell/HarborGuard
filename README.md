@@ -24,12 +24,6 @@ Attackers changed vendor bank details, abused API keys, exported data in bulk an
 ## Roles
 Admin, Analyst, Auditor and Viewer. The Viewer sees only the summary. The login locks for 30 seconds after 3 wrong passwords.
 
-## Screenshots
-![Dashboard](1-dashboard.png)
-![API monitor](2-api-monitor.png)
-
-## Run it
-Open `index.html` in a browser, or use VS Code with the Live Server extension. An internet connection is needed for the React, Tailwind and font libraries.
 
 ## Notes
 - All data is simulated and nothing connects to real systems.
